@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suhail
 - 👀 I’m interested in BlockChain Technology
-- 🌱 I’m currently learning Soliid 
+- 🌱 I’m currently learning Solidity 
 
 <!---
 ukazsrinagar/ukazsrinagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
